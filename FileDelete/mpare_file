@@ -1,0 +1,1 @@
+insert into compare_file(`md5`,`fpath`,`opath`) values
